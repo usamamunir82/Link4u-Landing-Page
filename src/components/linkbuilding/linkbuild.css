@@ -1,0 +1,84 @@
+@media only screen and (max-width: 980px) {
+    .linkImg img{
+        max-width: 300px;
+    }
+}
+@media only screen and (max-width: 730px) {
+    .linkHead{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .linkImg{
+        margin-top: -170px;
+        margin-left: 200px;
+        
+        }
+}
+@media only screen and (max-width: 613px) {
+    .linkImg{
+        margin-top: -170px;
+        margin-left: 50px;
+        
+        }
+        .linkbuildContainer{
+margin-left: -100PX;
+        }
+}
+
+
+.linkbuildContainer{
+    padding: 100px;
+    padding-left: 140px;
+}
+.linkHead{
+    display: flex;
+}
+.linkImg{
+padding-top: 150px;
+
+}
+.linkImg img{
+
+}
+.linkbuildh2 h2{
+    /* max-width: 774px; */
+    font-weight: 700;
+font-size: 2.5rem;
+line-height: 45px;
+letter-spacing: -1px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.linkbuildp1 p{
+    padding-top: 50px;
+    /* max-width: 623px; */
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+color: rgba(21, 20, 57, 0.4);
+}
+.linkbuildp2 p{
+    padding-top: 40px;
+    /* max-width: 623px; */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    color: rgba(21, 20, 57, 0.4);
+}
+.linkbuildBut{
+    padding-top: 30px;
+}
+.linkbuildBut button{
+   
+    border: none;
+    width: 140px;
+    height: 40px;
+    color: white;
+    background: #1DA1F2;
+    border-radius: 100px;
+}

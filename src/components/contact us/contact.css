@@ -1,0 +1,213 @@
+
+@media only screen and (max-width: 985px) {
+    .contactContainer{
+      display: flex;
+      flex-wrap: wrap;
+        }
+}
+@media only screen and (max-width: 558px) {
+.inTuch p{
+    max-width: 200px;
+    /* display: flex; */
+}
+.dropUs{
+    margin-left: -70px;
+}
+.inTuch{
+    margin-left: -70px;
+
+}
+}
+@media only screen and (max-width: 415px) {
+    .dropUs{
+        margin-left: -70px;
+    }
+    .inTuch{
+        margin-left: -70px;
+
+    }
+}
+
+
+.contactUsContainer{
+/* padding-top: 50px; */
+}
+.contactUs-Data{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactUs-Data h3{
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 52px;
+    letter-spacing: -0.4px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.contactUs-Data p{
+    padding-bottom: 2em;
+padding-top: 1.5em;
+    max-width: 500px;
+    font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.contactContainer{
+   
+    max-width: 1156px;
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin: auto;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+border-radius: 27px;
+box-sizing: border-box;
+display: flex;
+gap: 120px;
+padding: 100px;
+}
+.dropUs span{
+    font-weight: 700;
+font-size: 42px;
+line-height: 52px;
+/* identical to box height, or 124% */
+
+letter-spacing: -0.4px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.dropUs p{
+    padding-top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    color: rgba(21, 20, 57, 0.4);
+}
+.contactBox p{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+text-transform: capitalize;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.contactBox input{
+    width: 100%;
+    max-width: 310px;
+    height: 40px;
+    border: 2px solid #EBEAED;
+border-radius: 100px;
+box-sizing: border-box;
+
+}
+.nameBox{
+    display: flex;
+    gap: 10px;
+}
+.nameBox input{
+   width: 100%;
+    max-width: 210px;
+}
+.nameBox button{
+    color: white;
+    Width:90px;
+Height:40px;
+background: #1DA1F2;
+border-radius: 100px;
+border: none;
+}
+.inTuch span{
+    font-weight: 700;
+font-size: 42px;
+line-height: 52px;
+letter-spacing: -0.4px;
+color: rgba(0, 0, 0, 0.7);
+
+}
+.inTuch p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 0.9em;
+line-height: 26px;
+padding-top: 20px;
+letter-spacing: 2px;
+text-transform: capitalize;
+color: rgba(21, 20, 57, 0.4);
+}
+.tuchFirstIcon{
+    padding-top: 30px;
+}
+.iconNo{
+    display: flex;
+    gap: 15px;
+    
+    align-items: center;
+}
+.tuchFirstIcon span{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 26px;
+letter-spacing: 2px;
+text-transform: uppercase;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.icono{
+    text-align: center;
+
+color: #1DA1F2;
+}
+.inTuchLine{
+    padding-top: 30px;
+    width: 460px;
+    mix-blend-mode: normal;
+opacity: 0.1;
+border-bottom: 1px solid #141414;
+}
+.onSocial{
+    padding-top: 30px;
+}
+.onSocialIcons{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.tuchIcon{
+    color: #1DA1F2;
+
+}
+.onSocial span{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+text-transform: capitalize;
+color: rgba(0, 0, 0, 0.7);
+}
+.onSocialData{
+    display: flex;
+    gap: 70px;
+    padding-top: 20px;
+}
+.onSocialLeft{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.onSocialRight{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

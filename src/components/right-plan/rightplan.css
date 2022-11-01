@@ -1,0 +1,172 @@
+
+@media only screen and (max-width: 1000px) {
+    .planTypes{
+        display: flex;
+     flex-wrap: wrap;
+     margin-left: 80px;
+    }
+}
+@media only screen and (max-width: 507px) {
+    .planTypes{
+  
+     margin-left: 0px;
+    }
+}
+@media only screen and (max-width: 391px) {
+    .planTypes{
+  
+     margin-left: -50px;
+    }
+}
+.rightText{
+    text-align: center;
+}
+#bbvc{
+    background: #F6F5FA;
+}
+.rightText p{
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+    
+    opacity: 0.68;
+}
+.switchData{
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.switchbuton{
+    padding-top: 15px;
+}
+.contenth2{
+
+max-width: 100px;
+    margin: auto;
+    background: #1DA1F2;
+}
+.pcontentT{
+    width: 205.7px;
+    background: #F1F1F1;
+    border-radius: 5.53903px;
+    margin: auto;
+    
+}
+.pcontentT span{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+
+    letter-spacing: 0.01em;
+    
+    color: #160F0F;
+    
+}
+.contenth2 span{  
+    font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+}
+.planIcons{
+    display: flex;
+    gap: 10px;
+}
+.planTypes{
+    display: flex;
+    gap: 71px;
+ padding: 80px;
+}
+.basicTypes{
+    padding: 30px;
+    background: #FFFFFF;
+box-shadow: 0px 4px 82px rgba(0, 0, 0, 0.05);
+border-radius: 24px;
+}
+.typeContent{
+  
+    text-align: center;
+    align-items: center;
+}
+.hexiIcon{
+    color: red;
+}
+
+.professionalTypes{
+    margin-top: -30px;
+    padding: 30px;
+    background: #1DA1F2;
+    border-radius: 24px;
+}
+.advanceTypes{
+    padding: 30px;
+
+    background: #FFFFFF;
+box-shadow: 0px 4px 82px rgba(0, 0, 0, 0.05);
+border-radius: 24px;
+}
+.typeContent p{
+    padding-top: 10px;
+}
+.tcontentA{
+    max-width: 164.7px;
+    background: #1DA1F2;
+border-radius: 5.53903px;
+color: #FFFFFF;
+font-weight: 600;
+font-size: 24px;
+line-height: 28px;
+margin: auto;
+}
+.typeDate span{
+   padding-top: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 66.4684px;
+    line-height: 73px; 
+    letter-spacing: -0.461586px;
+    
+    color: #000000;
+}
+.typeDate{
+    padding-top: 20px;
+}
+.typeDate p{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14.7708px;
+line-height: 24px;
+color: #000000;
+opacity: 0.8;
+}
+.typeIcon{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+}
+.typeLine{
+    
+    padding-top: 20px;
+    margin: auto;
+    max-width: 275.77px;
+    opacity: 0.1;
+border-bottom: 2px solid #000000;
+}
+.typeBottomLine{
+    padding-top: 20px;
+    margin: auto;
+    max-width: 275.77px;
+    opacity: 0.1;
+border-bottom: 2px solid #000000;
+}
